@@ -1,0 +1,9 @@
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_test\bin\Debug\Ejem_pre_test.exe.config
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_test\bin\Debug\Ejem_pre_test.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_test\bin\Debug\Ejem_pre_test.pdb
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_test\obj\Debug\Ejem_pre_test.csprojResolveAssemblyReference.cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_test\obj\Debug\Ejem_pre_test.Form1.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_test\obj\Debug\Ejem_pre_test.Properties.Resources.resources
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_test\obj\Debug\Ejem_pre_test.csproj.GenerateResource.Cache
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_test\obj\Debug\Ejem_pre_test.exe
+C:\Users\jhass\AppData\Local\Temporary Projects\Ejem_pre_test\obj\Debug\Ejem_pre_test.pdb
